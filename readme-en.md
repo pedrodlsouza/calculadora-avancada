@@ -17,62 +17,62 @@
 
 <br>
 <p align="center">
-  <a href="#-apresentação-em-vídeo-do-projeto">Vídeo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-alguns-destaques">Destaques</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-clonando-o-projeto">Clone</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contato-dos-contribuintes">Contato</a>
+  <a href="#-project-video-presentation">Video</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies-used">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-some-highlights">Highlights</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-cloning-the-project">Cloning</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributor-contact">Contact</a>
 </p>
 <br>
 
-## 📹 Apresentação em Vídeo do Projeto
+## 📹 Project Video Presentation
 <div align="center">
   <video src="https://user-images.githubusercontent.com/86276393/155037512-fba15e46-2b26-4d08-818e-c8595e199c2a.mp4">
 </div>
+  
+> **If the video has any errors, reload the page!**<br>
+> Access the project online **[HERE](https://luk4x.github.io/projeto-calculadora/)**
 
-> **Caso o vídeo apresente algum erro, recarregue a página!**<br>
-> Acesse o projeto online **[AQUI](https://luk4x.github.io/projeto-calculadora/)**
-
-## 🚀 Tecnologias Utilizadas
+## 🚀 Technologies Used
 
 -   [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 -   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 -   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-## 📝 Sobre
+## 📝 About
 
-> Assistir o vídeo acima e/ou acessar o projeto online ajudará na compreensão da explicação!
+> Watching the video above and/or accessing the project online will help you understand the explanation!
+  
+To improve myself more on the basis of Front-End development, I made this project that consists of a Web Calculator, developed using Javascript's `eval()` method as a base.<br>
+I mainly honed my knowledge in Javascript and CSS.
 
-Para me aperfeiçoar mais na base do desenvolvimento Front-End, fiz esse projeto que se consiste numa Calculadora Web, desenvolvida utilizando o método `eval()` do Javascript como base.<br>
-Lapidei principalmente meus conhecimentos em Javascript e CSS.
+### 📌 Some Highlights
 
-### 📌 Alguns Destaques
+- I used CSS Grid Layout to position the parts of the calculator;
+- I used CSS Transition to make the animations;
+- I used CSS variables to standardize the color palette;
+- I created two color themes with the possibility of switching between them via Javascript;
+- I did the mapping of all equivalent keys and the feedback animation when typing via Javascript;
 
-- Utilizei CSS Grid Layout para posicionar as partes da calculadora;
-- Utilizei CSS Transition para fazer as animações;
-- Utilizei variáveis CSS para padronizar a paleta de cores;
-- Criei dois temas de cores com a possibilidade de alternância entre eles via Javascript;
-- Fiz o mapeamento de todas as teclas equivalentes e a animação de feedback ao teclar via Javascript;
+## 📖 Cloning the Project
 
-## 📖 Clonando o Projeto
-
-Para clonar e executar este projeto em seu computador, você precisará apenas que o [Git](https://git-scm.com/) esteja previamente instalado.<br>
-Feito isso, no terminal:
+To clone and run this project on your computer, you just need [Git](https://git-scm.com/) to be previously installed.<br>
+After that, in the terminal:
 
 ```bash
-# Clone esse repositório com:
+# Clone this repository with:
 > git clone https://github.com/Luk4x/projeto-calculadora.git
 
-# Entre no repositório com:
+# Enter the repository with:
 > cd projeto-calculadora
 
-# Execute o projeto com:
-> start index.html # Para usuários de Windows
-> open index.html # Para usuários de Linux/Mac
+# Run the project with:
+> start index.html # For Windows users
+> open index.html # For Linux/Mac users
 ```
 
-## 🤝 Contato dos Contribuintes
+## 🤝 Contributor Contact
 
 <table border="2">
   <tr>
@@ -99,8 +99,8 @@ Feito isso, no terminal:
 
 | :placard: Vitrine.Dev | Lucas Maciel |
 | -------------  | --- |
-| :sparkles: Nome        | **🖩 Web Calculator**
-| :label: Tecnologias | javascript, css, html
+| :sparkles: Name        | **🖩 Web Calculator**
+| :label: Technologies | javascript, css, html
 | :camera: Img         | <img src="https://user-images.githubusercontent.com/86276393/202926860-12cb1166-2909-4645-bb57-3c3a52f6162a.png#vitrinedev" alt="vitrine.dev thumb" width="100%"/>
 
 </details>
@@ -109,5 +109,5 @@ Feito isso, no terminal:
 </table>
 
 <p align="right">
-  <a href="#-web-calculator-project">Voltar ao Topo</a>
+  <a href="#-web-calculator-project">Back to Top</a>
 </p>
